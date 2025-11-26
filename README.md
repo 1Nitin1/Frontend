@@ -1,3 +1,3 @@
 # html
-my html codes
-Going to remove this soon
+my html codes.
+Going to remove this soon.
